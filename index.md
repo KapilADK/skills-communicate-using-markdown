@@ -10,5 +10,14 @@ I am adding an image of Yactocat
 
 
 ## Now we are coding
-<h6> cariable = 3</h6> 
-<h6>print(cariable)</h6>
+```
+var = 3
+par = 4
+
+def sum(x,y):
+  return x+y
+
+result = sum(var,par)
+print(result)
+
+```
